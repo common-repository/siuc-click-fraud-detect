@@ -1,0 +1,44 @@
+# Copyright (C) 2016 Siuc click fraud detect
+# This file is distributed under the same license as the Siuc click fraud detect package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Siuc click fraud detect 17.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/siuc-click-fraud-"
+"detect\n"
+"POT-Creation-Date: 2016-06-28 07:38:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Artem Bondarenko <support@siuc.biz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: siuc.php:75
+msgid "Save Changes"
+msgstr ""
+
+#: siuc.php:103
+msgid ""
+"<p>To get UNIC key, visit <a href=\"https://siuc.biz/sites/\" target=\"_blank"
+"\">https://siuc.biz/sites/</a></p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Siuc click fraud detect"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://siuc.biz/plugin/wp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Client for Service to identify unfair competition"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Artem Bondarenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://siuc.biz"
+msgstr ""
